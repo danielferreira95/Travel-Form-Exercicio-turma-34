@@ -69,9 +69,9 @@ Neste exercício, verificamos se você é capaz de:
 
 1. Clone o repositório
 
-- Use o comando: `git clone git@github.com:tryber/sd-0x-exercise-travel-form`.
+- Use o comando: `git clone git@github.com:tryber/sd-034-exercise-travel-form`.
 - Entre na pasta do repositório que você acabou de clonar:
-  - `cd sd-0x-exercise-travel-form`
+  - `cd sd-034-exercise-travel-form`
 
 2. Instale as dependências
 
@@ -90,7 +90,7 @@ Neste exercício, verificamos se você é capaz de:
 4. Crie na raiz do exercício os arquivos que você precisará desenvolver:
 
 - Verifique que você está na raiz do exercício:
-  - Exemplo: `pwd` -> o retorno vai ser algo tipo _/home/maria/code/**sd-0x-exercise-travel-form**_ no Linux ou _/Users/maria/code/**sd-0x-exercise-travel-form**_ no Mac.
+  - Exemplo: `pwd` -> o retorno vai ser algo tipo _/home/maria/code/**sd-034-exercise-travel-form**_ no Linux ou _/Users/maria/code/**sd-034-exercise-travel-form**_ no Mac.
 - O arquivo HTML que você usará já foi criado, é o `form.html`.
 - Crie os arquivos style.css para estilizar seu formulário:
   - Exemplo: `touch style.css`
@@ -114,7 +114,7 @@ Neste exercício, verificamos se você é capaz de:
 
 7. Crie um novo `Pull Request` _(PR)_
 
-- Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/betrybe/sd-0x-exercise-travel-form/pulls)
+- Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/betrybe/sd-034-exercise-travel-form/pulls)
   - Clique no botão verde _"New pull request"_
   - Clique na caixa de seleção _"Compare"_ e escolha a sua branch **com atenção**
 - Coloque um título para o seu _Pull Request_
@@ -126,7 +126,7 @@ Neste exercício, verificamos se você é capaz de:
 
  <img width="1335" alt="Exemplo de pull request" src="/img/pull_request-img.png">
 
-- Volte até a [página de _Pull Requests_ do repositório](https://github.com/betrybe/sd-0x-exercise-travel-form/pulls) e confira que o seu _Pull Request_ está criado
+- Volte até a [página de _Pull Requests_ do repositório](https://github.com/betrybe/sd-034-exercise-travel-form/pulls) e confira que o seu _Pull Request_ está criado
 
 </details>
 
